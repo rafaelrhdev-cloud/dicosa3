@@ -1,0 +1,74 @@
+[
+    {
+        "id": "b-central",
+        "name": "Central de mayoreo — Santa Cruz",
+        "address": "Eje 6 Poniente 5, Col. Camino a Santa Cruz Nieto, San Juan del Río, Qro., CP 76807",
+        "phone": "01 (427) 264-0077",
+        "hours": "Lun–Sáb 6:00–17:00 · Dom 6:00–14:00",
+        "lat": 20.401008,
+        "lng": -99.979658,
+        "is_main": true,
+        "active": true,
+        "code": "central"
+    },
+    {
+        "id": "b-994581ac4e",
+        "name": "pedre",
+        "address": "",
+        "phone": "",
+        "hours": "",
+        "lat": 20.378765,
+        "lng": -99.965912,
+        "is_main": false,
+        "active": true,
+        "code": "pedre"
+    },
+    {
+        "id": "b-4444bec654",
+        "name": "coppe",
+        "address": "coppel",
+        "phone": "",
+        "hours": "",
+        "lat": 20.386931,
+        "lng": -99.968272,
+        "is_main": false,
+        "active": true,
+        "code": "coppe"
+    },
+    {
+        "id": "b-208b5e3cd7",
+        "name": "san cayetano",
+        "address": "san cayetano",
+        "phone": "",
+        "hours": "",
+        "lat": 20.382385,
+        "lng": -99.980589,
+        "is_main": false,
+        "active": true,
+        "code": "san-cayetano"
+    },
+    {
+        "id": "b-f18e9d7679",
+        "code": "tequisquiapan",
+        "name": "tequisquiapana",
+        "address": "tequis",
+        "phone": "4271278213",
+        "hours": "",
+        "lat": null,
+        "lng": null,
+        "is_main": false,
+        "active": true
+    },
+    {
+        "id": "b-a595708f31",
+        "code": "zona-industrial",
+        "name": "eje 6",
+        "address": "",
+        "phone": "",
+        "hours": "",
+        "lat": null,
+        "lng": null,
+        "is_main": false,
+        "active": true
+    }
+]

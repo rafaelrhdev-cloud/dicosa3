@@ -1,0 +1,66 @@
+{"ts":"2026-10-14 16:39:27","user":"admin","role":"dev","action":"login","detail":"Inició sesión","ip":"::1"}
+{"ts":"2026-10-14 16:53:28","user":"admin","role":"dev","action":"usuario_creado","detail":"dicosa (admin)","ip":"::1"}
+{"ts":"2026-10-14 16:53:40","user":"admin","role":"dev","action":"logout","detail":"Cerró sesión","ip":"::1"}
+{"ts":"2026-10-14 16:53:46","user":"dicosa","role":"admin","action":"login","detail":"Inició sesión","ip":"::1"}
+{"ts":"2026-10-14 16:55:50","user":"dicosa","role":"admin","action":"logout","detail":"Cerró sesión","ip":"::1"}
+{"ts":"2026-10-14 16:55:58","user":"admin","role":"dev","action":"login","detail":"Inició sesión","ip":"::1"}
+{"ts":"2026-10-14 16:56:56","user":"admin","role":"dev","action":"usuario_creado","detail":"duenos (owner)","ip":"::1"}
+{"ts":"2026-10-14 16:57:33","user":"admin","role":"dev","action":"logout","detail":"Cerró sesión","ip":"::1"}
+{"ts":"2026-10-14 16:57:40","user":"duenos","role":"","action":"login_fallido","detail":"duenos","ip":"::1"}
+{"ts":"2026-10-14 16:57:47","user":"duenos","role":"","action":"login_fallido","detail":"duenos","ip":"::1"}
+{"ts":"2026-10-14 16:57:53","user":"admin","role":"dev","action":"login","detail":"Inició sesión","ip":"::1"}
+{"ts":"2026-10-14 16:58:04","user":"admin","role":"dev","action":"usuario_editado","detail":"duenos — contraseña restablecida","ip":"::1"}
+{"ts":"2026-10-14 16:58:05","user":"admin","role":"dev","action":"logout","detail":"Cerró sesión","ip":"::1"}
+{"ts":"2026-10-14 16:58:11","user":"duenos","role":"","action":"login_fallido","detail":"duenos","ip":"::1"}
+{"ts":"2026-10-14 16:58:18","user":"duenos","role":"owner","action":"login","detail":"Inició sesión","ip":"::1"}
+{"ts":"2026-10-14 16:59:27","user":"duenos","role":"owner","action":"logout","detail":"Cerró sesión","ip":"::1"}
+{"ts":"2026-10-14 16:59:34","user":"admin","role":"dev","action":"login","detail":"Inició sesión","ip":"::1"}
+{"ts":"2026-10-14 17:00:16","user":"admin","role":"dev","action":"usuario_creado","detail":"humanos (rh)","ip":"::1"}
+{"ts":"2026-10-14 17:00:19","user":"admin","role":"dev","action":"logout","detail":"Cerró sesión","ip":"::1"}
+{"ts":"2026-10-14 17:00:28","user":"humanos","role":"rh","action":"login","detail":"Inició sesión","ip":"::1"}
+{"ts":"2026-10-14 17:00:45","user":"humanos","role":"rh","action":"logout","detail":"Cerró sesión","ip":"::1"}
+{"ts":"2026-10-14 17:00:53","user":"admin","role":"dev","action":"login","detail":"Inició sesión","ip":"::1"}
+{"ts":"2026-10-14 17:01:19","user":"admin","role":"dev","action":"usuario_creado","detail":"editor (editor)","ip":"::1"}
+{"ts":"2026-10-14 17:01:21","user":"admin","role":"dev","action":"logout","detail":"Cerró sesión","ip":"::1"}
+{"ts":"2026-10-14 17:01:28","user":"editor","role":"editor","action":"login","detail":"Inició sesión","ip":"::1"}
+{"ts":"2026-10-14 17:01:56","user":"editor","role":"editor","action":"logout","detail":"Cerró sesión","ip":"::1"}
+{"ts":"2026-10-14 17:02:02","user":"admin","role":"dev","action":"login","detail":"Inició sesión","ip":"::1"}
+{"ts":"2026-10-14 17:07:12","user":"admin","role":"dev","action":"logout","detail":"Cerró sesión","ip":"::1"}
+{"ts":"2026-10-14 17:07:20","user":"editor","role":"editor","action":"login","detail":"Inició sesión","ip":"::1"}
+{"ts":"2026-10-14 17:11:27","user":"editor","role":"editor","action":"logout","detail":"Cerró sesión","ip":"::1"}
+{"ts":"2026-10-14 17:11:33","user":"admin","role":"dev","action":"login","detail":"Inició sesión","ip":"::1"}
+{"ts":"2026-10-14 17:11:54","user":"admin","role":"dev","action":"usuario_creado","detail":"marketing (marketing)","ip":"::1"}
+{"ts":"2026-10-14 17:11:55","user":"admin","role":"dev","action":"logout","detail":"Cerró sesión","ip":"::1"}
+{"ts":"2026-10-14 17:12:01","user":"marketing","role":"marketing","action":"login","detail":"Inició sesión","ip":"::1"}
+{"ts":"2026-10-14 17:12:08","user":"marketing","role":"marketing","action":"galeria_foto","detail":"Cambió la foto 1","ip":"::1"}
+{"ts":"2026-10-14 17:12:26","user":"marketing","role":"marketing","action":"logout","detail":"Cerró sesión","ip":"::1"}
+{"ts":"2026-10-14 17:12:37","user":"admin","role":"dev","action":"login","detail":"Inició sesión","ip":"::1"}
+{"ts":"2026-10-14 17:12:56","user":"admin","role":"dev","action":"usuario_creado","detail":"lectura (viewer)","ip":"::1"}
+{"ts":"2026-10-14 17:12:59","user":"admin","role":"dev","action":"logout","detail":"Cerró sesión","ip":"::1"}
+{"ts":"2026-10-14 17:13:09","user":"lectura","role":"viewer","action":"login","detail":"Inició sesión","ip":"::1"}
+{"ts":"2026-10-14 17:13:46","user":"lectura","role":"viewer","action":"logout","detail":"Cerró sesión","ip":"::1"}
+{"ts":"2026-10-14 17:13:54","user":"admin","role":"dev","action":"login","detail":"Inició sesión","ip":"::1"}
+{"ts":"2026-10-14 17:20:49","user":"admin","role":"dev","action":"usuario_creado","detail":"gerente (manager)","ip":"::1"}
+{"ts":"2026-10-14 17:21:19","user":"admin","role":"dev","action":"sucursal_creada","detail":"tequisquiapan — tequisquiapana","ip":"::1"}
+{"ts":"2026-10-14 17:21:53","user":"admin","role":"dev","action":"vacante_guardada","detail":"programador para la tequisquiapana","ip":"::1"}
+{"ts":"2026-10-14 17:23:06","user":"admin","role":"dev","action":"logout","detail":"Cerró sesión","ip":"::1"}
+{"ts":"2026-10-14 17:23:16","user":"admin","role":"dev","action":"login","detail":"Inició sesión","ip":"::1"}
+{"ts":"2026-10-14 17:24:07","user":"admin","role":"dev","action":"usuario_creado","detail":"tequis (manager)","ip":"::1"}
+{"ts":"2026-10-14 17:24:09","user":"admin","role":"dev","action":"logout","detail":"Cerró sesión","ip":"::1"}
+{"ts":"2026-10-14 17:24:14","user":"tequis","role":"manager","action":"login","detail":"Inició sesión","ip":"::1"}
+{"ts":"2026-10-14 17:24:17","user":"tequis","role":"manager","action":"vacante_guardada","detail":"programador para la tequisquiapana","ip":"::1"}
+{"ts":"2026-10-14 17:24:19","user":"tequis","role":"manager","action":"vacante_guardada","detail":"programador para la tequisquiapana","ip":"::1"}
+{"ts":"2026-10-14 17:24:23","user":"tequis","role":"manager","action":"vacante_guardada","detail":"programador para la tequisquiapana","ip":"::1"}
+{"ts":"2026-10-14 17:24:30","user":"tequis","role":"manager","action":"vacante_guardada","detail":"programador para la tequisquiapanaa","ip":"::1"}
+{"ts":"2026-10-14 17:24:51","user":"tequis","role":"manager","action":"vacante_guardada","detail":"lavalosas para tequis","ip":"::1"}
+{"ts":"2026-10-14 17:28:05","user":"tequis","role":"manager","action":"logout","detail":"Cerró sesión","ip":"::1"}
+{"ts":"2026-10-14 17:28:11","user":"admin","role":"dev","action":"login","detail":"Inició sesión","ip":"::1"}
+{"ts":"2026-10-14 18:20:22","user":"admin","role":"dev","action":"candidato_estatus","detail":"20261014-172528-5beaa18b → agendado","ip":"::1"}
+{"ts":"2026-10-14 22:11:47","user":"admin","role":"dev","action":"sucursal_creada","detail":"zona-industrial — eje 6","ip":"::1"}
+{"ts":"2026-10-14 22:12:35","user":"admin","role":"dev","action":"vacante_guardada","detail":"modelo","ip":"::1"}
+{"ts":"2026-10-14 22:13:50","user":"admin","role":"dev","action":"usuario_creado","detail":"zonaindustrial (manager)","ip":"::1"}
+{"ts":"2026-10-14 22:13:53","user":"admin","role":"dev","action":"logout","detail":"Cerró sesión","ip":"::1"}
+{"ts":"2026-10-14 22:14:01","user":"zonaindustrial","role":"manager","action":"login","detail":"Inició sesión","ip":"::1"}
+{"ts":"2026-10-14 22:16:06","user":"zonaindustrial","role":"manager","action":"logout","detail":"Cerró sesión","ip":"::1"}
+{"ts":"2026-10-14 22:16:20","user":"admin","role":"dev","action":"login","detail":"Inició sesión","ip":"::1"}
+{"ts":"2026-10-14 22:17:13","user":"admin","role":"dev","action":"candidato_estatus","detail":"20261014-221329-c9917b5f → rechazado","ip":"::1"}

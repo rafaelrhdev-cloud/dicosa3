@@ -1,0 +1,61 @@
+[
+    {
+        "id": "v-carnicero",
+        "title": "Carnicero/a",
+        "description": "",
+        "active": true,
+        "created_at": "2026-08-13 00:00:00"
+    },
+    {
+        "id": "v-auxcarniceria",
+        "title": "Auxiliar de carnicería",
+        "description": "",
+        "active": true,
+        "created_at": "2026-08-13 00:00:00"
+    },
+    {
+        "id": "v-cajero",
+        "title": "Cajero/a",
+        "description": "",
+        "active": true,
+        "created_at": "2026-08-13 00:00:00"
+    },
+    {
+        "id": "v-chofer",
+        "title": "Chofer / repartidor",
+        "description": "",
+        "active": true,
+        "created_at": "2026-08-13 00:00:00"
+    },
+    {
+        "id": "v-auxadmin",
+        "title": "Auxiliar administrativo",
+        "description": "",
+        "active": true,
+        "created_at": "2026-08-13 00:00:00"
+    },
+    {
+        "id": "v-44ae5a43b2",
+        "title": "programador para la tequisquiapanaa",
+        "description": "de aqui a mañanaaa",
+        "active": true,
+        "branch_id": "b-f18e9d7679",
+        "created_at": "2026-10-14 17:21:53"
+    },
+    {
+        "id": "v-2ffdd82a23",
+        "title": "lavalosas para tequis",
+        "description": "",
+        "active": true,
+        "branch_id": "b-f18e9d7679",
+        "created_at": "2026-10-14 17:24:51"
+    },
+    {
+        "id": "v-137105472a",
+        "title": "modelo",
+        "description": "que sea guapa",
+        "active": true,
+        "branch_id": "b-a595708f31",
+        "created_at": "2026-10-14 22:12:35"
+    }
+]

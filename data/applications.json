@@ -1,0 +1,43 @@
+[
+    {
+        "id": "20261014-165427-43b5df16",
+        "name": "rafa",
+        "email": "kusdarr2@gmail.com",
+        "phone": "412727123",
+        "position": "Cajero/a",
+        "message": "asdsad",
+        "cv_filename": "20261014-165427-43b5df16.pdf",
+        "cv_original_name": "propuesta_desarrollo_web.pdf",
+        "status": "recibido",
+        "notes": "",
+        "applied_at": "2026-10-14 16:54:27"
+    },
+    {
+        "id": "20261014-172528-5beaa18b",
+        "name": "rafael rocha hernandez",
+        "email": "kusdarr2@gmail.com",
+        "phone": "4271278213",
+        "position": "programador para la tequisquiapanaa — tequisquiapana",
+        "message": "",
+        "cv_filename": "20261014-172528-5beaa18b.pdf",
+        "cv_original_name": "propuesta_desarrollo_web.pdf",
+        "status": "agendado",
+        "notes": "",
+        "applied_at": "2026-10-14 17:25:28"
+    },
+    {
+        "id": "20261014-221329-c9917b5f",
+        "name": "gali",
+        "email": "kusdarr2@gmail.com",
+        "phone": "4271278213",
+        "position": "modelo — eje 6",
+        "vacancy_id": "v-137105472a",
+        "branch_id": "b-a595708f31",
+        "message": "si soy",
+        "cv_filename": "20261014-221329-c9917b5f.pdf",
+        "cv_original_name": "propuesta_desarrollo_web.pdf",
+        "status": "rechazado",
+        "notes": "",
+        "applied_at": "2026-10-14 22:13:29"
+    }
+]
